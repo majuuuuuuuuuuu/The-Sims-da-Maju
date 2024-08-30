@@ -1,0 +1,25 @@
+body {
+    color: rgb(184, 23, 128);
+    background: white;
+    margin: 0px;
+    font-family: "Chakra Petch",sans-serif;
+}
+.title {
+    display:flex;
+    vertical-align: middle;
+    margin-left: 1px;
+    font-size: 25px;
+}
+.container {
+    display:flex;
+    vertical-align: middle;
+    height: 80px;
+    width:70px;
+}
+section {
+    background: rgb(0,0,0);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
